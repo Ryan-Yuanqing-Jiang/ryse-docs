@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "skills/PRD Generator.md",
+                "file": "outreach_material/logistics/1_Logistics_AI_Industry_Map.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PRD Generator"
+              "title": "1_Logistics_AI_Industry_Map"
             }
           }
         ]
@@ -180,13 +180,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "30c84fd38ccbc2ce",
   "lastOpenFiles": [
-    "skills/Product intro.md",
+    "outreach_material/logistics/3_Executive_Brief_Trends.md",
+    "outreach_material/logistics/The 60-Second Logistics Profitability Audit.md",
+    "outreach_material/logistics/1_Logistics_AI_Industry_Map.md",
+    "CONTEXT_template.md",
+    "outreach_material/logistics",
+    "outreach_material",
     "skills/PRD Generator.md",
+    "skills/Product intro.md",
     "artefact_templates/poster_for_agent.md",
     "artefact_templates/poster_for_human.md",
     "artefact_templates/spec.md",
