@@ -29,7 +29,7 @@ _An operational blueprint for logistics companies: how_ AI+ Technology could _r
 - **Outcome:** Maximizes stop-density and reduces fuel consumption.
     
 
-### 4. Delivery - Last-Mile & Exception Handling (The $1M Leak)
+### 4. Delivery - Last-Mile & Exception Handling
 
 - **The Status Quo:** 12-15% First-Time Delivery (FTD) failure rate. Reactive re-routing takes 45 minutes of manual coordination.
     
