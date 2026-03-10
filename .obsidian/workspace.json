@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "outreach_material/logistics/Ryse Consultancy Intro.md",
+                "file": "design/principles for prints and web.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ryse Consultancy Intro"
+              "title": "principles for prints and web"
             }
           },
           {
@@ -208,8 +208,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "54ddd7025bdfdd6b",
+  "active": "ccb078491581497b",
   "lastOpenFiles": [
+    "outreach_material/logistics/pdfs/00_Ryse_Intro.pdf.sb-66ab7927-09hOIt",
+    "outreach_material/logistics/Ryse Consultancy Intro.md",
     "outreach_material/logistics/pdfs/web-offer-tri.pdf",
     "outreach_material/logistics/pdfs/web-offer-tri.html",
     "outreach_material/logistics/pdfs/web-offer-vfs.pdf",
@@ -226,10 +228,8 @@
     "outreach_material/logistics/5_Cross_Industry_Success_Framework.md",
     "rules/add-license-header.md",
     "outreach_material/logistics/pdfs/00_Ryse_Intro.pdf",
-    "outreach_material/logistics/pdfs/05_Cross_Industry_Framework.pdf",
     "outreach_material/logistics/2_Operational_Readiness_Audit.md",
     "outreach_material/logistics/The 60-Second Logistics Profitability Audit.md",
-    "outreach_material/logistics/Ryse Consultancy Intro.md",
     "outreach_material/logistics/1_Logistics_AI_Industry_Map.md",
     "design/principles for prints and web.md",
     "CONTEXT_template.md",
